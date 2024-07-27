@@ -20,10 +20,10 @@ using namespace std;
  * - Polymorphism
  * - Abstract classes
  *
- * @section REQUIREMENTS
- * You should write a well-structured, readable, and clean code that is based on all
- * concepts that you have studied so far.
- * In this lab the only limit is your imagination. Be creative!
+ * 
+ * 
+ * 
+ * 
  */
 
 int main(void) {
