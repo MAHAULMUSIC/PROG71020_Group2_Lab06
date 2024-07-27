@@ -1,13 +1,17 @@
-Group2_Lab05
+# Group2_Lab04
 The Three Musketeers
 
-Madison Tadros - Leader
-Formatting/spec documentation
-Created the Destructor
+1. Madison Tadros - Leader
+- Formatting/spec documentation
+- RECTANGLE and CIRCLE classes
+- Source code
+  
+2. Adil Farid
+- BMW and MAZDA classes
+- Commenting and Modifying Code in accordance with Doxygen.
+- Source code
 
-Adil Farid
-Created the GameCharacter class.
-Created the Copy and Assignment Constructor.
-
-Armaan Maan
-Created the Default Constructor and Parametized Constructor
+2. Armaan Maan
+- Created SHAPE base class
+- Global functions and overrides
+- Source code
